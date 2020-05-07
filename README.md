@@ -1,5 +1,6 @@
 # Example Microgen GraphQL using React
-[https://microgen.mejik.id/](https://microgen.mejik.id/)
+[Demo](https://react-graphql-example-ow02nbej8.now.sh/)
+[Microgen](https://microgen.mejik.id/)
 
 ## Available Scripts
 

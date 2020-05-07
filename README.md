@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Example Microgen GraphQL using React
+[https://microgen.mejik.id/](https://microgen.mejik.id/)
 
 ## Available Scripts
 

@@ -1,6 +1,12 @@
 # Example Microgen GraphQL using React
-[Demo](https://react-graphql-example-ow02nbej8.now.sh/)
-[Microgen](https://microgen.mejik.id/)
+- [Demo](https://react-graphql-example.now.sh/)
+
+## Backend
+- [Playground](https://example1588829191534.microgen.mejik.id/graphql)
+- [Microgen](https://microgen.mejik.id/)
+
+## Post
+- [Medium](https://medium.com/@a.aswara/belajar-graphql-di-react-js-menggunakan-apollo-client-a009444f1a94)
 
 ## Available Scripts
 
